@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/christopherlacy-hulbert/.android/build-cache/33611efe3d78800da3993d8bbedc0022c5d125f8/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/classes-f0684e52983b49bc57e7391f38fe4afb1187ed00.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/constraint-layout-solver-1.0.2-639c696e1d3a63d3f3845facfb820d928b369e5f.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.android/build-cache/61b39b2d71152ba2d9c407551dbcc58d0a0a5879/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/classes-fe6f730e99164f5bd3082acaa9d514a5ba5cefe5.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.android/build-cache/b46f532c423ced97de07d2cc4750321451fff5ee/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/classes-3ea77d9a155babda31a7aa890a9b25c29e19d520.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/Library/Android/sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.3"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackRuntimeLibraries/backend/debug/jars/8000/40/org.apache.http.legacy-0f77c4a6e68faa82a5a739eb3c682fcda59a8f31.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.android/build-cache/8964c5215477fca56f7112efa0dec32d27c96997/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/classes-5554984952f4ce1eec1ac1f7bb4dea8341db3bbd.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.android/build-cache/93f6c09535c3f26ef9c23bd5f62a3d4488b75809/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="b32c2324baa75a12968b466b74064c49841a0018">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/classes-af76a54762b4c6cc8665fdd4d63bb2aedb09004e.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.android/build-cache/1089a6f4118ab6cb49df445605b3591619d3477a/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/classes-b0555a5b4cd69aaf3faeee49de387d96d09fffaf.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/support-annotations-25.3.1-9fb01f6ae590d713ee6334e6615a511b39db2e97.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.android/build-cache/7a276e3afc993c0486a43a7e5577a67ac2ada068/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/classes-5c74ac549ac42b3166d682b6535ace8b88407b8d.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.1/57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb/rxjava-2.0.1.jar"
+        revision="25.0.3"
+        sha1="57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/rxjava-2.0.1-eb899bbffb4857669e4100836dda85ad89d8ca66.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.android/build-cache/971909147a10e875dc05260e440cf70b86551ab6/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/classes-66ef00334e756834e13519e7561f360b3f7ff401.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.android/build-cache/011d8dc02f758d81a079f797a5bee2d8580abc63/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/classes-8a8f357f91ae4accc3446ce32b719c9c14def8a0.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.android/build-cache/216dc9dc221bd30cfacad2e20ac1b42906334488/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="5db4505b366d1bdf9c7fe858119c119236cc1c5c">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/classes-13eeae3a189f1bf00c22b982df26398092fabdda.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.9/75a739e59d7ede2f7f425f369955bdd1c2ac122b/dagger-2.9.jar"
+        revision="25.0.3"
+        sha1="75a739e59d7ede2f7f425f369955bdd1c2ac122b">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/dagger-2.9-a496ebdc668363b216eb60bbf8d16de1f39c018e.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        revision="25.0.3"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/okio-1.11.0-dc649a3ce18ce34d9102872181367b3b72b39f4a.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        revision="25.0.3"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/converter-gson-2.2.0-f8ae68c5451558b92d87e15addd0f178fc4ab216.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/glide-3.7.0-bfe1eeb7dc6b9177aea7e0ada2e9e8aa235bead9.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.android/build-cache/27d384fa7dc93c3f9daa6e92bcd03bcdbb1de258/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/classes-e3653914de353ec578a73ba37159d1774925be2c.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/f7be08ec23c21485b9b5a1cf1654c2ec8c58168d/jsr305-3.0.1.jar"
+        revision="25.0.3"
+        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/jsr305-3.0.1-30296e4954f980162bbc74665826c9fd3f3161e3.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.gradle/caches/modules-2/files-2.1/javax.annotation/jsr250-api/1.0/5025422767732a1ab45d93abfea846513d742dcf/jsr250-api-1.0.jar"
+        revision="25.0.3"
+        sha1="5025422767732a1ab45d93abfea846513d742dcf">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackRuntimeLibraries/backend/debug/jars/8000/40/jsr250-api-1.0-40200b4bcc53b09e7bd64ad816b86709a65b7225.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.1/4e4cfa4adc74521d5966799fa5ab70b733552f68/rxjava-1.2.1.jar"
+        revision="25.0.3"
+        sha1="4e4cfa4adc74521d5966799fa5ab70b733552f68">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/rxjava-1.2.1-a83d06db9f3c013adbb60e6cfface6c0e2256912.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.android/build-cache/5454ffdf8fd4022c2e01b7ddf4c7ffadbcb9fef2/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/classes-815bc8015c4bf62b468f3428dcae587564af6ad5.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.android/build-cache/375ae56772f8540f3befe7beacac39a3e0204c0f/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/classes-674e2c46dd528a6a741b13f79290a94ddadaa820.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.android/build-cache/6b657bd1540a301ca419306f68733f2368e30043/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/classes-e23a15219e7bca7ec20f6b87530a75ace04e9a41.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        revision="25.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/javax.inject-1-6941922116ff2577b6e6a5c46e1e5e50b8bac9a6.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/gson-2.7-e009f7dbf3108507f49110fc88d73172fde3fabd.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        revision="25.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/okhttp-3.6.0-f989ce7d28f57ed60dbd8d38190389108ff27f22.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        revision="25.0.3"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/butterknife-annotations-8.5.1-ff54693371297513eb06c3acbc6e91776262118f.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        revision="25.0.3"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/logging-interceptor-3.4.1-149ea4955c9176c7227bb9b2e3ca248ac4049e2d.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.gradle/caches/modules-2/files-2.1/com.trello/rxlifecycle/1.0/6a38e2cd80f46ecaf6553b2eb5a05eee6d472fdb/rxlifecycle-1.0.jar"
+        revision="25.0.3"
+        sha1="6a38e2cd80f46ecaf6553b2eb5a05eee6d472fdb">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/rxlifecycle-1.0-85b6a0f14b9cf90cc4e2c67ca6515b4bafef0fb6.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/Library/Android/sdk/platforms/android-25/android.jar"
+        revision="25.0.3"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackRuntimeLibraries/backend/debug/jars/8000/40/android-a8d2190f243ae4f95a6ef346a4fd751a642061c0.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.android/build-cache/a02a83614dba453e9e9ec45b64770b5109d322bd/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/classes-ad1cbc71983de647923ef99a8dbee60acd23811e.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        revision="25.0.3"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/retrofit-2.2.0-b5170df77d56adb09d9e302b78b6225d54037e11.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.android/build-cache/e43f9718a040c8b6423596894b29a54bdd6933b9/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/classes-cb6dee6f955036bfe573b1266537eee0ab014f6b.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        revision="25.0.3"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/reactive-streams-1.0.0-23ef50c6abaeb0bc376f61285944a0320af61a1b.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.android/build-cache/0d13204814ec8572be88578a1a08d591e1e8dbf8/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/classes-7f92780dac1c94a8fe7b6544d947afb9e8822aa2.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.android/build-cache/6546ae874f83879340c0306b9d138578645ac21a/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/classes-fcb509d51f5a60bbe87b0ddf2f608fb4db8c4c9e.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.android/build-cache/fc8d774f3ee378d4ec1595c171150ec1655384c9/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/classes-a804fc3daf4e75cf5832ab963afbc267362a8278.jar" />
+    </item>
+    <item
+        jar="/Users/christopherlacy-hulbert/.android/build-cache/208f5b6c98ae64e668945dd43f61cef5828efce6/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/christopherlacy-hulbert/Development/PhotoList/app/build/intermediates/transforms/preJackPackagedLibraries/backend/debug/jars/8000/1f/classes-2cb3dc4c2f9a457cda2843344939cd6cec2e34bf.jar" />
+    </item>
+
+</items>
